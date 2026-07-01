@@ -1,0 +1,4 @@
+interface:
+  display_name: "长访谈人物重构"
+  short_description: "把长录音与逐字稿重构为有心力、有活人感的深度人物访谈"
+  default_prompt: "使用 $longform-interview-editor，把这份逐字稿重构成有来源依据、以人物为中心的访谈大纲和问答稿。"
