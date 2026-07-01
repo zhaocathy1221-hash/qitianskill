@@ -74,6 +74,8 @@ cp -R longform-interview-editor ~/.codex/skills/
 6. 重构问答稿。
 7. 做最终审查：来源覆盖、数字口径、人物归属、敏感信息、方法内容是否淹没人物。
 
+如果你手里是录音、飞书妙记或飞书文档，按 [从录音到访谈稿：使用说明书](HOW_TO_USE_FROM_RECORDING.md) 一步步处理。
+
 ## 不用 Skill 时怎么用
 
 如果你不用 Codex skill，也可以直接使用 [prompts.md](prompts.md) 里的提示词。
@@ -92,4 +94,3 @@ cp -R longform-interview-editor ~/.codex/skills/
 见 [examples/sample-interview-workflow.md](examples/sample-interview-workflow.md)。
 
 示例是完全脱敏和虚构的迷你样本，用来展示“原始片段 -> 来源台账 -> 大纲 -> 问答稿片段”的工作方式。
-
